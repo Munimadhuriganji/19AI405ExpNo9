@@ -1,5 +1,5 @@
 # ExpNo 9: Solve Wumpus World Problem using Python demonstrating Inferences from Propositional Logic</h1> 
-## Name: GANJI MUNI MADURI
+## Name: GANJI MUNI MADHURI
 ## Register Number: 212223230060
 ## Aim:
 
